@@ -1,4 +1,4 @@
-### 💫 Hey There I'm Suresh Kumar:
+# 💫 Hey There I'm Suresh Kumar:
 
 🔭 Currently building: AI malware detectors<br>🌱 Learning: ML model optimization, embedded systems, scalable backends  <br>👯 Open to: Collaborations in AI and full-stack projects  <br>💬 Ask me about: AI + real-world systems, MVPs, startup tech  <br>📫 Reach me: sureshkumarg028@gmail.com <br>
 
@@ -6,7 +6,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surexh.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshkumar-sk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/surexh-exe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surexh_exe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sureshkumarg028@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +29,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surexh-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)   ![](https://nirzak-streak-stats.vercel.app/?user=surexh-exe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surexh-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
