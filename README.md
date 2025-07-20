@@ -36,8 +36,5 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=surexh-exe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 📖 Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=surexh-exe&icon=5&color=8)](https://visitcount.itsvg.in)
